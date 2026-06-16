@@ -1,4 +1,4 @@
-# MyFirstRepository
+# My First Repository
 My first repository on GitHub
 This repository was created as part of the C# Developer profession on the SkillFactory platform.
 
