@@ -1,19 +1,19 @@
 # MyFirstRepository
-Мой первый репозитарий на GitHub
-Данный репозиторий был создан в рамках [профессии C#-разработчик](https://skillfactory.ru/csharp) на платформе SkillFactory.
+My first repository on GitHub
+This repository was created as part of the C# Developer profession on the SkillFactory platform.
 
-## Текущий модуль
-В данный момент мы изучаем модуль под названием **Git**.
+# Current Module
+At the moment, we are studying a module called Git.
 
-Мы уже знаем следующие вещи:
-* Что такое Система Контроля Версий и какие типы систем бывают.
-* Что такое Git
-* Что такое GitHub
-* Что такое Markdown
-* Что такое Commit
+We already know the following things:
+* What a Version Control System is and what types of systems exist.
+* What Git is
+* What GitHub is
+* What Markdown is
+* What a Commit is
 
-### Что нам еще следует изучить
-* Ветка (Branch)
-* Отправка в удаленный репозитарий (Push)
-* Обновление локального репозитория (Pull/Fetch)
-* Слияние (Merge)
+# What we still need to learn
+* Branch
+* Sending to a remote repository (Push)
+* Updating a local repository (Pull/Fetch)
+* Merge
