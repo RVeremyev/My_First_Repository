@@ -2,7 +2,7 @@
 My first repository on GitHub
 This repository was created as part of the C# Developer profession on the SkillFactory platform.
 
-# Current Module
+## Current Module
 At the moment, we are studying a module called Git.
 
 We already know the following things:
@@ -12,8 +12,11 @@ We already know the following things:
 * What Markdown is
 * What a Commit is
 
-# What we still need to learn
+## What we still need to learn
 * Branch
 * Sending to a remote repository (Push)
 * Updating a local repository (Pull/Fetch)
 * Merge
+
+## New string
+*New comment*
