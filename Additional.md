@@ -1,6 +1,6 @@
-### Что нам еще следует изучитьПостарались изучить, что такое
-* Ветка (Branch)
-* Отправка в удаленный репозитарий (Push)
-* Обновление локального репозитория (Pull/Fetch)
-* Слияние (Merge)
-### Надеюсь что-то получилось
+### What else should we learn? We tried to cover what a:
+* Branch is
+* Pushing to a remote repository (Push)
+* Updating a local repository (Pull/Fetch)
+* Merging (Merge) is
+### Hope it worked out well!
